@@ -3,6 +3,16 @@ title: Doctocate-template
 layout: Home 
 parmalink: /index/ 
 --- 
+import * as React from "react"
+
+export default function Index() {
+  return <div>Hello world</div>
+}
+
+
+
+
+
 <h1 align="center"> 👏 welcome to RunAsh family ! </h1>
 <p align="center">
   <img width="300px" src="./docs/src/readme.png">
