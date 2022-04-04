@@ -1,8 +1,3 @@
---- 
-title: Doctocate-template 
-layout: Home 
-parmalink: /index/ 
---- 
 import * as React from "react"
 
 export default function Index() {
